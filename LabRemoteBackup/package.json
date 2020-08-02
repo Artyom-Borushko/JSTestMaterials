@@ -1,0 +1,21 @@
+{
+  "name": "js-qa-automation-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cross-fetch": "^3.0.4",
+    "husky": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.epam.com:artsem_barushka/js-qa-automation-lab.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

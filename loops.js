@@ -55,7 +55,7 @@ for (const value of ['a', 'c', 'd']) {                    // for...of. Iterates 
 }
 
 for (const [index, value] of ['b', 'b', 'c'].entries()) {
-    console.log(index)                                    // also for...of
+    console.log(index)                                    // also for...of. Entries helps to output indexes
     console.log(value)
 }
 

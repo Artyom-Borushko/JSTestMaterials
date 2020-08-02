@@ -64,3 +64,17 @@ const checkFunctionFunctionality = function checkFunction() {
 }
 
 
+
+// -------------------------------------------------------------
+// JS LAB TASKS
+
+// ↓ EPMFARMATS-10987 TASK ↓
+
+// function sortArrayByDecreasing(a, b) {
+//   return b - a;
+// }
+
+// console.log(
+//   "Sort array of integers by decreasing value ",
+//   arrayOfRandomIntegers.sort(sortArrayByDecreasing)
+// );
