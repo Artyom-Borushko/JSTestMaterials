@@ -72,5 +72,3 @@ for (const operation of operations) {
   operation()
 }
 
-
-

@@ -18,16 +18,16 @@ let one = 1
 let anotherOne = "11"
 console.log(one + anotherOne)
 
-{ab: 1; b: 12}
-{abc: {bca: 312}}
+{ ab: 1; b: 12 }
+{ abc: { bca: 312 } }
 
-function test (ad, fg) {
+function test(ad, fg) {
     return ad * fg
 }
-console.log(test(2,2))
+console.log(test(2, 2))
 
 class Person {
-    constructor (name) {
+    constructor(name) {
         this.name = name
     }
 
@@ -38,7 +38,7 @@ class Person {
     //     this.name = value
     // }
 
-    hello () {
+    hello() {
         return ('That\'s object based on class ')
     }
 }
@@ -50,7 +50,7 @@ console.log(checkName)
 
 
 class Coder extends Person {
-    code () {
+    code() {
         return 'Typing some code'
     }
 }
